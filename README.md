@@ -7,11 +7,6 @@ habits when working with Android Studio (ie. not relying fully on my constraint 
    fields (Starting at Zero) that have the entire sudoku puzzle stored as one string. Each number should be written out as normal, but empty spaces should be put as a ".".
    For example: Field 0 = (Type String)  "96..4.1.....38....7.8.6...912.8..9.3....5....3.5..2.648...9.4.7....38.....9.2..85"
 
-
-
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
-
 [Software Demo Video](https://youtu.be/HWfEZ4FZfwU)
 
 # Cloud Database
